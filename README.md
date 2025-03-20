@@ -1,4 +1,6 @@
 // BACKEND
+
+
 The question is to develop AVERAGE CALCULATOR HTTP MICROSERVICE
 
 First, I registered using the register API and got the client ID and client Secret through which I was able to generate the token.
