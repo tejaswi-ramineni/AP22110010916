@@ -2,9 +2,10 @@
   "name": "AP22110010916",
   "version": "1.0.0",
   "description": "",
+  "type": "module", 
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "",
     "dev": "nodemon index.js"
   },
   "keywords": [],
@@ -18,7 +19,8 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "index.js": "^0.0.3",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
